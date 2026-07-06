@@ -8,11 +8,7 @@ A modern React application for exploring the **FIFA World Cup 2026** tournament.
 
 ## 🌍 Live Demo
 
-**GitHub Pages:** _(Add your deployed URL here)_
-
-Example:
-
-`https://YOUR_USERNAME.github.io/fifa-2026/`
+**GitHub Pages:** `https://khan-aliya.github.io/FIFA-World-Cup-2026/`
 
 ---
 
